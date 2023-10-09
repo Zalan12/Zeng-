@@ -1,0 +1,26 @@
+#content{
+    
+	
+}
+#imageright{width: 280px;
+    float: right;
+    display: block;
+	
+}
+#imageleft{
+    float: left;
+    width: 260px;
+    display: block;
+    margin-right: 40px;
+
+	
+}
+.kepszoveg{
+	
+}
+h1{color: forestgreen;}
+h2{color: forestgreen;}
+li{}
+ul{width: 628px;
+    list-style:square;
+float: right;}
